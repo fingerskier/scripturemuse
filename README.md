@@ -5,7 +5,7 @@ Is a Bible enrighment app facilitating scripture memory and understanding.
 
 # Texts
 
-There are various copyrightt and licensing issues with popoular Bible translations.
+There are various copyright and licensing issues with popoular Bible translations.
 We avoid these issues by requiring you to enter your own text;
 a form to search using the Blue-Letter Bible web-site is provided.
 
