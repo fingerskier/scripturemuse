@@ -1,13 +1,13 @@
 # Scripture Muse
 
-Is a Bible enrighment app facilitating scripture memory and understanding.
+Is a Bible enrichment app facilitating scripture memory and understanding.
 
 
 # Texts
 
-There are various copyright and licensing issues with popoular Bible translations.
+There are various copyright and licensing issues with popular Bible translations.
 We avoid these issues by requiring you to enter your own text;
-a form to search using the Blue-Letter Bible web-site is provided.
+a form to search _on_ the Blue-Letter Bible web-site is provided.
 
 
 # Memorization
@@ -15,9 +15,9 @@ a form to search using the Blue-Letter Bible web-site is provided.
 The base functionality includes several methods of reviewing memory verses:
 * Current
   * Reveal words by tapping on the '***' placeholders _after_ you recite them, click the 🔄 button to reset them
+  * Word shuffle ~ rearrange the words into the correct order
 * Planned
   * TBD: every other word hidden...
-  * TBD: word scramble
   * **Feel free to propose new ideas!**
 
 
